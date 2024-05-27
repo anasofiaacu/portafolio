@@ -1,0 +1,29 @@
+Classname
+
+
+.botones {
+  text-align: center; 
+}
+
+.botones button {
+  background-color:rgb(241, 19, 196); 
+  color: #0a0909; 
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  padding: 10px 20px; 
+  margin: 5px; 
+  border-radius: 5px; 
+  cursor: pointer; 
+
+}
+
+
+  
+
+  
+  
+  
+
+
+
+
+  

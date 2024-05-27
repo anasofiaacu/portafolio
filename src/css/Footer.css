@@ -1,0 +1,20 @@
+.footer {
+  text-align: center;
+  display: flex;
+  justify-content:flex-start;
+  background-color: rgb(241, 19, 196);
+  color: black;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  margin-top: 100px;
+}
+
+.facebook{    
+margin: 0 10px;
+
+}
+.insta{       
+margin: 0 10px;        
+
+}
+
+  
